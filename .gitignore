@@ -1,0 +1,10 @@
+# Debug log from npm
+npm-debug.log
+
+node_modules
+
+*.DS_Store
+
+# Builds
+
+build
